@@ -1,0 +1,5 @@
+Grid search - best param:  {'C': 0.5, 'epsilon': 0.001, 'gamma': 'auto', 'kernel': 'rbf'}
+Grid search - best score:  0.8679895357950131
+R-squared (R2) Score: 0.8677032642899998
+RMSE:  0.09900046110818465
+end time:  8857.48871493339539

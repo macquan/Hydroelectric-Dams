@@ -1,0 +1,7 @@
+RFR-----------------------------------------------------
+Grid search - best param:  {'criterion': 'squared_error', 'max_depth': 5, 'min_samples_split': 2, 'n_estimators': 50, 'random_state': 42}
+Grid search - best score:  0.8210041572942395
+R-squared (R2) Score: 0.9052574841489485
+RMSE:  0.0837789879255847
+end time:  2026.2158877849579
+

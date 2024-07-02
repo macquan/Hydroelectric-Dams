@@ -1,0 +1,5 @@
+Grid search - best param:  {'activation': 'relu', 'batch_size': 250, 'hidden_layer_sizes': 16, 'learning_rate': 'adaptive', 'max_iter': 2000, 'solver': 'adam'}
+Grid search - best score:  0.9139994989655108
+R-squared (R2) Score: 0.8752651550797846
+RMSE:  0.09612947021137033
+end time:  848.2218284606934
